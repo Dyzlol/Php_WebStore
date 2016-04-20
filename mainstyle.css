@@ -1,0 +1,12 @@
+body{
+    border-style: solid;
+    padding: .5em;
+    width: 600px;
+    height: 600px;
+    border-radius: 10px;
+}
+
+table,th,td{
+    border:1.5px;
+    border-style: solid;
+}
